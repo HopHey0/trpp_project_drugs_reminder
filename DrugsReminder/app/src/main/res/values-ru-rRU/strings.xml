@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Напоминание о лекарствах</string>
+    <string name="close_button">Кнопка закрытия</string>
+    <string name="side_effects">Побочные эффекты</string>
+    <string name="contraindications">Противопоказания</string>
+    <string name="amount_of_substance">Количество вещества</string>
+    <string name="active_factor">Активный фактор</string>
+    <string name="name">Название</string>
+    <string name="selected_drug">ВЫБРАННЫЙ ПРЕПАРАТ</string>
+    <string name="delete_drug">Удалить препарат</string>
+    <string name="pick_time">ВЫБОР ВРЕМЕНИ</string>
+    <string name="select_drug">Выбрать препарат</string>
+    <string name="set_alarm">Установить будильник</string>
+    <string name="add_new_drug">Добавить новый препарат</string>
+    <string name="monday">Понедельник</string>
+    <string name="tuesday">Вторник</string>
+    <string name="wednesday">Среда</string>
+    <string name="thursday">Четверг</string>
+    <string name="friday">Пятница</string>
+    <string name="saturday">Суббота</string>
+    <string name="sunday">Воскресенье</string>
+    <string name="preview_picked_time">Предварительный просмотр выбранного времени здесь</string>
+    <string name="drug_not_selected">Лекарство не выбрано</string>
+    <string name="please_select_time">Пожалуйста, выберите время</string>
+    <string name="please_select_drug">Пожалуйста, выберите лекарство</string>
+    <string name="drug">Лекарство</string>
+    <string name="reminder_set_successfully">Напоминание установлено успешно</string>
+</resources>

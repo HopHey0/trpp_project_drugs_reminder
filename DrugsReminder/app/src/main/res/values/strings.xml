@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Drugs Reminder</string>
+    <string name="close_button">close button</string>
+    <string name="side_effects">Side Effects</string>
+    <string name="contraindications">Contraindications</string>
+    <string name="amount_of_substance">Amount of Substance</string>
+    <string name="active_factor">Active Factor</string>
+    <string name="name">Name</string>
+    <string name="selected_drug">SELECTED_DRUG</string>
+    <string name="delete_drug">Delete drug</string>
+    <string name="pick_time">PICK TIME</string>
+    <string name="select_drug">Select drug</string>
+    <string name="set_alarm">Set alarm</string>
+    <string name="add_new_drug">Add new drug</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="preview_picked_time">Preview picked time here</string>
+    <string name="drug_not_selected">Drug not selected</string>
+    <string name="please_select_time">Please select a time</string>
+    <string name="please_select_drug">Please select a drug</string>
+    <string name="drug">Drug</string>
+    <string name="reminder_set_successfully">Reminder set successfully</string>
+</resources>

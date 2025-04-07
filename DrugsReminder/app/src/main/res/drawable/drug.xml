@@ -1,0 +1,39 @@
+<vector xmlns:aapt="http://schemas.android.com/aapt" xmlns:android="http://schemas.android.com/apk/res/android" android:height="100dp" android:viewportHeight="33" android:viewportWidth="33" android:width="100dp">
+      
+    <path android:pathData="M5.605,16.272C2.66,13.327 2.66,8.551 5.605,5.606C8.551,2.66 13.326,2.66 16.272,5.606L26.938,16.272C29.884,19.218 29.884,23.993 26.938,26.939C23.993,29.884 19.217,29.884 16.272,26.939L5.605,16.272Z">
+            
+        <aapt:attr name="android:fillColor">
+                  
+            <gradient android:centerX="13.776" android:centerY="9.674" android:gradientRadius="15.402" android:type="radial">
+                        
+                <item android:color="#FFFADF73" android:offset="0"/>
+                        
+                <item android:color="#FFFFD500" android:offset="0.457"/>
+                        
+                <item android:color="#FFFC9900" android:offset="1"/>
+                      
+            </gradient>
+                
+        </aapt:attr>
+          
+    </path>
+      
+    <path android:pathData="M26.939,16.272C29.884,19.218 29.884,23.993 26.939,26.939C23.993,29.884 19.218,29.884 16.272,26.939L10.939,21.605L21.605,10.939L26.939,16.272Z">
+            
+        <aapt:attr name="android:fillColor">
+                  
+            <gradient android:centerX="19.909" android:centerY="16.134" android:gradientRadius="10.217" android:type="radial">
+                        
+                <item android:color="#FFFFA500" android:offset="0"/>
+                        
+                <item android:color="#FFFF4900" android:offset="1"/>
+                      
+            </gradient>
+                
+        </aapt:attr>
+          
+    </path>
+      
+    <path android:fillAlpha="0.6" android:fillColor="#ffffff" android:pathData="M11.383,9.606C10.647,8.869 10.647,7.675 11.383,6.939C12.119,6.203 13.313,6.203 14.05,6.939L25.605,18.494C26.342,19.231 26.342,20.425 25.605,21.161C24.869,21.897 23.675,21.897 22.938,21.161L11.383,9.606Z"/>
+    
+</vector>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:descendantFocusability="blocksDescendants">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <!-- Name -->
+
+        <TextView
+            android:id="@+id/name_label_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/name"
+            style="@style/LabelStyle"/>
+
+        <TextView
+            android:id="@+id/name_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            style="@style/TextStyle"/>
+
+        <!-- Active Factor -->
+        <TextView
+            android:id="@+id/active_factor_label_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/active_factor"
+            android:layout_marginTop="16dp"
+            style="@style/LabelStyle"/>
+
+        <TextView
+            android:id="@+id/active_factor_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            style="@style/TextStyle"/>
+
+        <!-- Amount of Substance -->
+        <TextView
+            android:id="@+id/amount_substance_label_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/amount_of_substance"
+            android:layout_marginTop="16dp"
+            style="@style/LabelStyle"/>
+
+        <TextView
+            android:id="@+id/amount_substance_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            style="@style/TextStyle"/>
+
+        <!-- Contraindications -->
+        <TextView
+            android:id="@+id/contraindications_label_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/contraindications"
+            android:layout_marginTop="16dp"
+            style="@style/LabelStyle"/>
+
+        <TextView
+            android:id="@+id/contraindications_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            style="@style/TextStyle"/>
+
+        <!-- Side Effects -->
+        <TextView
+            android:id="@+id/side_effects_label_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/side_effects"
+            android:layout_marginTop="16dp"
+            style="@style/LabelStyle"/>
+
+        <TextView
+            android:id="@+id/side_effects_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            style="@style/TextStyle"/>
+
+    </LinearLayout>
+
+</ScrollView>
+</RelativeLayout>

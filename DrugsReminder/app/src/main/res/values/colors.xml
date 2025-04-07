@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">#5142AD</color>
+    <color name="accent">#F87B4B</color>
+    <color name="text_title">#121519</color>
+    <color name="text_body">#9A9CA7</color>
+    <color name="background">#F5F3FF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="drug_text_color">#FF4081</color>
+</resources>
